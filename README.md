@@ -25,3 +25,5 @@ O projeto **Análise Setorial - Um Estudo de Caso com Dividendos** tem como obje
 
 O principal objetivo é fornecer uma visão detalhada do rendimento de dividendos por setor na B3, ajudando investidores a tomar decisões informadas baseadas na performance dos dividendos. Este estudo pode ser útil para aqueles que buscam maximizar o retorno dos seus investimentos em dividendos.
 
+<img src="https://github.com/GeorgeTelles/DY_por_setor/blob/8a4abb7c340307609943252dbbf154527f55e180/plot.png">
+
