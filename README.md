@@ -5,6 +5,8 @@
 
 # Análise Setorial - Um Estudo de Caso com Dividendos
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeorgeTelles/DY_por_setor/blob/main/An%C3%A1lise_setorial.ipynb)
+
 ## Descrição
 
 O projeto **Análise Setorial - Um Estudo de Caso com Dividendos** tem como objetivo extrair e analisar dados de dividend yield das empresas listadas na Bolsa de Valores do Brasil (B3), segmentando-os por setor. Através dessa análise, buscamos entender como o rendimento de dividendos varia entre diferentes setores e identificar quais setores oferecem melhores retornos para investidores focados em dividendos.
